@@ -1,0 +1,97 @@
+@font-face {
+    
+    font-family: myFont;
+
+    src:url(Pixeled.ttf)
+
+}
+
+body {
+ 
+    font-family: 'Courier New', Courier, monospace;
+ 
+    text-align: center;
+
+    background-color: #f2ead1;
+    
+    font-family: myFont;
+
+    color: #bfcbcd;
+
+}
+
+.credits {
+
+    color: #bfcbcd;
+
+    size: 50%;
+
+}
+
+.horbc {
+
+    color: #bfcbcd;
+    
+}
+
+audio::-webkit-media-controls-panel{
+
+    background-color: #bfcbcd;
+
+}
+
+audio::-webkit-media-controls-play-button{
+
+    background-color: #bfcbcd;
+
+}
+
+audio::-webkit-media-controls-current-time-display{
+
+    color: #f2ead1;
+
+}
+
+audio::-webkit-media-controls-time-remaining-display{
+
+    color: #f2ead1;
+
+}
+
+audio::-webkit-media-controls-timeline{
+
+    background-color: #bfcbcd;
+
+}
+
+audio::-webkit-media-controls-volume-slider{
+
+    background-color: #bfcbcd;
+
+}
+
+audio::-webkit-media-controls-mute-button{
+
+    background-color: #f2ead1;
+
+    border-radius: 50%;
+
+}
+
+#board {
+    
+    border-color: #bfcbcd;
+    
+    border-style: solid;
+
+    border-width: 45px;
+
+    border-radius: 9px;
+
+}
+
+#credtxt {
+
+    color: #bfcbcd;
+
+}
